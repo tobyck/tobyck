@@ -1,7 +1,8 @@
 # Kia ora! 👋
 
-I mostly use TypeScript at the moment and I'm sort-of learning Rust.  
-Interested in language and web design, and I do a bit of code golf.
+- 👨‍💻 Mostly using TypeScript at the moment
+- 🌱 Sort-of learning a bit of Rust
+- 🔭 Interested in language and web design
 
 <br>
 
