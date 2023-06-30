@@ -1,7 +1,7 @@
 # Kia ora! 👋
 
 - 👨‍💻 Mostly using TypeScript at the moment
-- 🌱 Sort-of learning a bit of Rust
+- 🌱 Learning C by [writing Vyxal in C](https://github.com/tobyck/cyxal)
 - 🔭 Interested in language and web design
 
 <br>
