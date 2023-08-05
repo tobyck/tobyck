@@ -6,4 +6,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobyck&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&langs_count=6&layout=compact&border_radius=10px&custom_title=Languages)](https://github.com/tobyck)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobyck&langs_count=6&layout=compact&theme=prussian&bg_color=00000000&border_radius=10px) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tobyck&rank_icon=github&hide=contribs&custom_title=GitHub%20Stats&line_height=24&text_bold=false&theme=prussian&bg_color=00000000&border_radius=10px)
