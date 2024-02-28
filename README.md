@@ -1,8 +1,9 @@
 # Kia ora! 👋
 
 - 👨‍💻 Mostly using TypeScript at the moment
-- 🔭 Interested in language and web design
-- 🌱 Learning Kotlin and C
+- 🌱 Learning Kotlin with [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/), ~~and C for [this project](https://github.com/tobyck/cyxal)~~
+- 🔭 Interested in language design/implemenation and web development
+- 🏗️ Haven't finished any projects in a while; don't expect much from my repositories
 
 <br>
 
