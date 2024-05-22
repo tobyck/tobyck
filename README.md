@@ -2,9 +2,9 @@
 
 I'm a high school student in NZ. Sometimes I make stuff.
 
-## Stuff I use
+## Things I use
 
-![](https://skillicons.dev/icons?i=linux,nix,neovim,js,ts,rust,kotlin,vue,bun,nodejs,pnpm,postman)
+![](https://skillicons.dev/icons?i=nix,linux,neovim,js,ts,rust,kotlin,vue,css,bun,nodejs,pnpm,postman)
 
 ## Some stats
 
