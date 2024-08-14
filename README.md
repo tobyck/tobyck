@@ -1,6 +1,8 @@
 # Kia ora! 👋
 
-I'm a high school student in NZ. Sometimes I make stuff.
+Sometimes I make stuff, and sometimes it ends up here.
+
+[tobyck.github.io](https://tobyck.github.io)
 
 ## Things I use
 
