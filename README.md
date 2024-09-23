@@ -6,7 +6,7 @@ Sometimes I make stuff, and sometimes it ends up here.
 
 ## Things I use
 
-![](https://skillicons.dev/icons?i=nix,linux,neovim,js,ts,rust,kotlin,vue,css,bun,nodejs,pnpm,postman)
+![](https://skillicons.dev/icons?i=nix,linux,neovim,rust,c,js,ts,kotlin,vue,css,bun,nodejs,pnpm,postman)
 
 ## Some stats
 
